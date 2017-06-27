@@ -19,6 +19,10 @@ import javax.servlet.http.HttpServletResponse;
 import porletNavegadorProsa.logger.Log;
 import porletNavegadorProsa.properties.PropertiesNav;
 
+/**
+ *
+ * @author Lianet
+ */
 public class Download extends HttpServlet {
 
     /**
