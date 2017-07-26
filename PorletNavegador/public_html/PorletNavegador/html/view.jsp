@@ -91,4 +91,3 @@ if (ldapNavegador.accesoLDAPNavegador()){
 }
 Log.tearDown();
 %>
-<p class="portlet-font">Last Modification</p>
